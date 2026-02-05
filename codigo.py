@@ -1,6 +1,6 @@
 #Esto fue desarrollado por Akuru
 nombre = "Peperone"
-nombre = "Sono"
+nombre = "Somnifero"
 nombre2 = "Akuru"
 apellido = "Aleio"
 
