@@ -1,6 +1,6 @@
 #Esto fue desarrollado por Akuru
-nombre = "Alejo"
-apellido = "Mirabile"
+nombre = "Soy"
+apellido = "Ale"
 
 saludo = "Hola " + nombre + " " + apellido + " Como estas?"
 
