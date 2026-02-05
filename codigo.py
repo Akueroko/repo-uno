@@ -1,5 +1,5 @@
 #Esto fue desarrollado por Akuru
-nombre = "Sono"
+nombre = "Peperone"
 apellido = "Aleio"
 
 saludo = "Hola " + nombre + " " + apellido + " Como estas?"
